@@ -1,7 +1,7 @@
-# Signal Equalizer Desktop Application
+# Music-Equalizer-and-Frequency-Controller
 
 ## Introduction
-The Signal Equalizer Desktop Application is a tool designed for the music and speech industry, as well as biomedical applications like hearing aid abnormalities detection. This application allows users to open a signal, adjust the magnitude of specific frequency components through sliders, and reconstruct the modified signal. The tool operates in different modes, including Uniform Range Mode, Musical Instruments Mode, Animal Sounds Mode, and ECG Abnormalities Mode.
+This Desktop Application is a tool designed for the music and speech industry, as well as biomedical applications like hearing aid abnormalities detection. This application allows users to open a signal, adjust the magnitude of specific frequency components through sliders, and reconstruct the modified signal. The tool operates in different modes, including Uniform Range Mode, Musical Instruments Mode, Animal Sounds Mode, and ECG Abnormalities Mode.
 
 ## Modes
 1. **Uniform Range Mode:**
@@ -47,7 +47,7 @@ The chosen window is applied when multiplying the frequency range with the corre
   ![4](screanshots/1.png)
 
 
-## Usage
+## How To Use The Application
 1. Open the application.
 2. Choose a mode from the options menu.
 3. Load a signal.
@@ -55,3 +55,4 @@ The chosen window is applied when multiplying the frequency range with the corre
 5. Adjust sliders to modify frequency magnitudes.
 6. Visualization of window customization is showed.
 7. Use the signal viewers and spectrograms to analyze the modified signal.
+
