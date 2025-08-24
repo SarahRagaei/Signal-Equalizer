@@ -8,12 +8,13 @@ import scipy
 from scipy import signal
 import matplotlib.pyplot as plt
 # import plotly.graph_objects as go
-import plotly.graph_objs as go
-import plotly.offline as pyo
+# import plotly.graph_objs as go
+# import plotly.offline as pyo
 # import sounddevice as sd
 import copy
 # import matplotlib.pyplot as plt
-from matplotlib.backends.backend_qt5agg import FigureCanvas
+# from matplotlib.backends.backend_qt5agg import FigureCanvas
+import matplotlib.backends.backend_qt5agg
 from matplotlib.figure import Figure
 from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas
 from PyQt5 import QtWidgets, QtCore

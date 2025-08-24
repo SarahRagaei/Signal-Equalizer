@@ -4,7 +4,7 @@ import librosa
 import soundfile as sf
 
 import os
-import mido
+# import mido
 import shutil
 # from midi2audio import FluidSynth
 
